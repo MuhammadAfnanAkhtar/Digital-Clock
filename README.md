@@ -9,9 +9,11 @@
 
 A simple and elegant digital clock web application that displays the current time in a clean, responsive interface.
 
-```
- 12:34:56 PM
-```
+
+<img width="764" height="414" alt="image" src="https://github.com/user-attachments/assets/00482726-a2a1-47e9-8dce-4d54087caa8b" />
+
+
+
 
 ---
 
@@ -80,16 +82,4 @@ Digital Clock/
 - Change the update frequency
 - Add date display or timezone support
 
----
 
-## ⭐ Show Your Support
-
-If you found this project useful, please consider giving it a star — it helps others discover it and keeps me motivated to build more!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/digital-clock?style=for-the-badge&logo=github&color=yellow)](https://github.com/yourusername/digital-clock/stargazers)
-
----
-
-## 📄 License
-
-This project is open-source. Feel free to use and modify it as needed.
